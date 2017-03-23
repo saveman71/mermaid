@@ -252,4 +252,4 @@ noteText     | Styles for the text on in the note boxes.
 Is it possible to adjust the margins for rendering the sequence diagram.
 
 This is done by defining the **sequenceConfig** part of the configuration object. Read more about it [here](http://knsv.github.io/mermaid/index.html#configuration28). How to use
-the CLI is described in the [mermaidCLI]((http://knsv.github.io/mermaid/index.html#mermaidCLI) page.
+the CLI is described in the [mermaidCLI](http://knsv.github.io/mermaid/index.html#mermaidCLI) page.
